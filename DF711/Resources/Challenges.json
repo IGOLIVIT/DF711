@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Morning Energizer",
+    "description": "Start your day with a quick cardio boost",
+    "type": "cardio",
+    "difficulty": "beginner",
+    "duration": 10,
+    "targetValue": 50,
+    "unit": "jumping jacks",
+    "points": 10,
+    "isCompleted": false,
+    "isUnlocked": true,
+    "requiredLevel": 1,
+    "instructions": [
+      "Stand with feet together, arms at sides",
+      "Jump while spreading legs shoulder-width apart",
+      "Simultaneously raise arms overhead",
+      "Jump back to starting position",
+      "Repeat for target count",
+      "Keep a steady rhythm and breathe normally"
+    ]
+  },
+  {
+    "name": "Core Crusher",
+    "description": "Strengthen your core with this focused workout",
+    "type": "strength",
+    "difficulty": "intermediate",
+    "duration": 15,
+    "targetValue": 30,
+    "unit": "crunches",
+    "points": 20,
+    "isCompleted": false,
+    "isUnlocked": false,
+    "requiredLevel": 5,
+    "instructions": [
+      "Lie on your back, knees bent at 90 degrees",
+      "Place hands behind head lightly",
+      "Engage core and lift shoulders off ground",
+      "Focus on using abs, not neck muscles",
+      "Lower back down with control",
+      "Repeat for target count"
+    ]
+  },
+  {
+    "name": "Zen Moment",
+    "description": "Take a mindful break to center yourself",
+    "type": "mindfulness",
+    "difficulty": "beginner",
+    "duration": 5,
+    "targetValue": 5,
+    "unit": "minutes",
+    "points": 15,
+    "isCompleted": false,
+    "isUnlocked": true,
+    "requiredLevel": 1,
+    "instructions": [
+      "Find a quiet, comfortable place to sit",
+      "Close your eyes and focus on your breath",
+      "Notice thoughts without judgment",
+      "Return attention to breathing when mind wanders",
+      "Continue for the full duration",
+      "End with three deep breaths"
+    ]
+  },
+  {
+    "name": "Power Walk",
+    "description": "Get your heart pumping with a brisk walk",
+    "type": "cardio",
+    "difficulty": "beginner",
+    "duration": 20,
+    "targetValue": 2000,
+    "unit": "steps",
+    "points": 25,
+    "isCompleted": false,
+    "isUnlocked": true,
+    "requiredLevel": 1,
+    "instructions": [
+      "Start with a 2-minute warm-up walk",
+      "Increase pace to brisk walking",
+      "Maintain good posture throughout",
+      "Swing arms naturally",
+      "Keep a pace where you can still talk",
+      "Cool down with slow walking for 2 minutes"
+    ]
+  },
+  {
+    "name": "Flexibility Flow",
+    "description": "Improve flexibility with gentle stretching",
+    "type": "flexibility",
+    "difficulty": "beginner",
+    "duration": 12,
+    "targetValue": 8,
+    "unit": "stretches",
+    "points": 18,
+    "isCompleted": false,
+    "isUnlocked": true,
+    "requiredLevel": 2,
+    "instructions": [
+      "Start with gentle neck rolls",
+      "Stretch arms across chest and overhead",
+      "Do forward fold for hamstrings",
+      "Perform hip circles and leg swings",
+      "Hold each stretch for 30 seconds",
+      "Breathe deeply throughout"
+    ]
+  },
+  {
+    "name": "Hydration Hero",
+    "description": "Stay hydrated throughout the day",
+    "type": "daily",
+    "difficulty": "beginner",
+    "duration": 1440,
+    "targetValue": 8,
+    "unit": "glasses of water",
+    "points": 12,
+    "isCompleted": false,
+    "isUnlocked": true,
+    "requiredLevel": 1,
+    "instructions": [
+      "Start with a glass of water upon waking",
+      "Drink water before each meal",
+      "Keep a water bottle with you",
+      "Set reminders to drink regularly",
+      "Monitor urine color for hydration level",
+      "Aim for 8 glasses throughout the day"
+    ]
+  }
+]
